@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ➤ A maioria dos meus projetos estão disponíveis no Github, mas você pode conferir minhas atividades no Gitlab [aqui](https://gitlab.com/joaopaulo123)
 
-➤ Check out LabRI-UNESP Project [here](https://gitlab.com/unesp-labri)
+➤ Confira [aqui](https://gitlab.com/unesp-labri) o Projeto LabRI-UNESP
 
 ➤ Fale comigo em cintrasilvajoaopaulo1@gmail.com
 
