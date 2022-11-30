@@ -1,4 +1,4 @@
-### Olá, seja bem vindo(a) 👋
+### Hello, welcome(a) 👋
 
 <!--
 **joaocintrasilva/joaocintrasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,24 +17,24 @@ Here are some ideas to get you started:
 -----
 ![Design sem nome (1)](https://user-images.githubusercontent.com/118399075/203639289-3f3daf18-6173-4c2c-915d-afac86cd1613.gif)
 -----
-## SOBRE MIM ♤
+## ABOUT ME ♤
 
-➤ Aluno de inscrição científica EM na Universidade Estadual Paulista
+➤ Student of MS scientific enrollment at Universidade Estadual Paulista
 
-➤ Realizando curso técnico em desenvolvimento de Sistemas na escola ETEC Dr. Júlio Cardoso
+➤ Conducting a technical course in Systems development at ETEC Dr. Julio Cardoso
 
-➤ Possuo conhecimento básico em HTMl, CSS e Python
+➤ I have basic knowledge in HTML, CSS and Python
 
-➤ A maioria dos meus projetos estão disponíveis no Github, mas você pode conferir minhas atividades no Gitlab [aqui](https://gitlab.com/joaopaulo123)
+➤ Most of my projects are available on Github, but you can check out my Gitlab activities [here](https://gitlab.com/joaopaulo123)
 
-➤ Confira [aqui](https://gitlab.com/unesp-labri) o Projeto LabRI-UNESP
+➤ Check [here](https://gitlab.com/unesp-labri) the LabRI-UNESP Project
 
-➤ Fale comigo em cintrasilvajoaopaulo1@gmail.com
+➤ Contact me at cintrasilvajoaopaulo1@gmail.com
 
 
 -----
 
-## HABILIDADES 
+## SKILLS 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   
 </div>
 
-## SOCIAIS 
+## SOCIAL
  
 <div> 
   <a href = "mailto:cintrasilvajoaopaulo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
