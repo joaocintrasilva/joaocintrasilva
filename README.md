@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -----
 ## ABOUT ME ♤
 
-➤ Student of MS scientific enrollment at Universidade Estadual Paulista
+➤ Student of scientific enrollment at Universidade Estadual Paulista
 
 ➤ Conducting a technical course in Systems development at ETEC Dr. Julio Cardoso
 
